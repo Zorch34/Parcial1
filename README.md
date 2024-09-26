@@ -1,1 +1,2 @@
-# Parcial1
+Carlos Andres Medina 
+202112046
